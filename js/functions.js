@@ -12,3 +12,7 @@ function multiply(parametr1, parametr2, parametr3){
 var wyniki = multiply(3, 9, 10);
 
 console.log("Wynik: " + wynik );
+
+wynik =multiply(35, 2, 10):
+
+console.log("Wynik: " + wynik );
